@@ -2,7 +2,6 @@
 <br>
 <br>
 <br>
-<br>
 <div align=center>
 *<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>
 </div>
