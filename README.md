@@ -4,7 +4,7 @@
 <br>
 <br>
 <div align=center>
-*<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>*
+*<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>
 </div>
 <div align=center>
 저의 GitHub에 오신 것을 환영합니다.<br/>
@@ -13,7 +13,9 @@
 방문해 주셔서 감사합니다.
 </div>
 <br>
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+<div align=center>
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+</div>
 <br>
 <div align=center>
 <h4>Hello, I'm a "gae-signer" who works across both design and development.</h4>
