@@ -15,13 +15,15 @@
 <div align=center>
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 </div>
-<br>
 <div align=center>
 <h4>Hello, I'm a "gae-signer" who works across both design and development.</h4>
 Welcome to my GitHub. I explore the infinite space between design and development — constantly thinking,<br>
 experimenting, and creating. Thank you for visiting.
-<div>
-
+</div>
+<br>
+<br>
+<br>
+##Stacks
 
 
 
