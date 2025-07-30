@@ -22,8 +22,11 @@ experimenting, and creating. Thank you for visiting.
 </div>
 <br>
 <br>
-<br>
-##Stacks
+
+<div align=center>
+  <h3>* Stacks *</h3>
+  
+</div>
 
 
 
