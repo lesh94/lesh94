@@ -1,4 +1,4 @@
-![무제-1](https://github.com/user-attachments/assets/79f1f714-dc67-412d-9e27-182318574044)
+![git_title_img](https://github.com/user-attachments/assets/253fde60-0acf-421e-b42d-b982aa1d6185)
 
 <!--
 **lesh94/lesh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
