@@ -23,12 +23,13 @@ experimenting, and creating. Thank you for visiting.
 <br>
 <br>
 
-<div align=center>
+<div>
+<div align=center >
   <h3>* Stacks *</h3>
 </div>
-<br>
-<div align=center >
 
+<div align=center >
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -41,22 +42,21 @@ experimenting, and creating. Thank you for visiting.
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+</div>
 
+<div align=center>
+  <h3>* Top Langs *</h3>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=151515)
 </div>
 <br>
-<br>
 <div align=center>
-  <h3>* Stats *</h3>
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 </div>
-<br>
-<br>
-<div align=center>
+<div align=center>  
+<h3>* Stats *</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lesh94&theme=tokyonight&card_height=120)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=1A1B27)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesh94&show_icons=true&theme=dark)
 </div>
 
 
