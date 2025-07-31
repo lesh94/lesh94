@@ -8,8 +8,9 @@
 <div align=center>
 <img width="40" height="36" alt="darth-vader_icon-icons 2" src="https://github.com/user-attachments/assets/2e49c24e-1ee7-48a3-8661-542e37f7bb3d" />
 </div>
+<br>
 <div align=center>
-*<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>
+<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>
 </div>
 <div align=center>
 저의 GitHub에 오신 것을 환영합니다.<br/>
