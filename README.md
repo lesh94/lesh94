@@ -3,6 +3,12 @@
 <br>
 <br>
 <div align=center>
+<img width="411" height="103" alt="star-wars-2369317_1280 1" src="https://github.com/user-attachments/assets/edd5cb6d-85e8-4637-b12a-f63e94e47cc8" />
+</div>
+<div align=center>
+<img width="40" height="36" alt="darth-vader_icon-icons 2" src="https://github.com/user-attachments/assets/2e49c24e-1ee7-48a3-8661-542e37f7bb3d" />
+</div>
+<div align=center>
 *<h4>안녕하세요. 디자인과 개발을 함께하는 개자이너입니다.</h4>
 </div>
 <div align=center>
@@ -32,19 +38,14 @@ experimenting, and creating. Thank you for visiting.
 </div>
 
 <div align=center >
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img width="606" height="252" alt="Frame 1430105660" src="https://github.com/user-attachments/assets/08136452-c4d1-4477-864b-bbaa1b770b85" />
+<br>
+<br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </div>
 
 <div align=center>
@@ -71,3 +72,5 @@ experimenting, and creating. Thank you for visiting.
 <div align=center>
 *
 </div>
+
+
