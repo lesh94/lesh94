@@ -49,9 +49,9 @@ experimenting, and creating. Thank you for visiting.
 </div>
 
 <div align=center>
-  <h3>* Top Langs *</h3>
+  <h3>* Profile / Top Langs *</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=151515)
+<img width="223" height="139" alt="Frame 1430105663" src="https://github.com/user-attachments/assets/c1d92c6a-79f1-4ab0-bfa6-4c0c695b9db2" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=151515)
 </div>
 <br>
 <div align=center>
