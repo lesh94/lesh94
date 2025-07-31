@@ -46,13 +46,17 @@ experimenting, and creating. Thank you for visiting.
 <br>
 <br>
 <div align=center>
-  <h3>* Stacks *</h3>
+  <h3>* Stats *</h3>
 </div>
 <br>
 <br>
 <div align=center>
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=lesh94&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&theme=nord&hide_border=true" /></a> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lesh94&theme=tokyonight&card_height=120)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=1A1B27)
+
+
+
 </div>
 
 
