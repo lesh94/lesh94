@@ -10,19 +10,22 @@
 저는 디자인과 개발의 경계, 그 사이의 무한한<br/>
 우주에서 끊임없이 고민하며 탐색하는 개자이너입니다.<br/>
 방문해 주셔서 감사합니다.
+
 </div>
 <br>
 <div align=center>
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*
 </div>
+
 <div align=center>
 <h4>Hello, I'm a "gae-signer" who works across both design and development.</h4>
 Welcome to my GitHub. I explore the infinite space between design and development — constantly thinking,<br>
 experimenting, and creating. Thank you for visiting.
 </div>
 <br>
-<br>
-
+<div align=center>
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+</div>
 <div>
 <div align=center >
   <h3>* Stacks *</h3>
