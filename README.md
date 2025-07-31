@@ -61,7 +61,13 @@ experimenting, and creating. Thank you for visiting.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesh94&show_icons=true&theme=dark)
 </div>
+
+<div align=center>  
+<h3>* Activity Graph *</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesh94&theme=react-dark)](https://github.com/lesh94/github-readme-activity-graph)
+</div>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/lesh94/github-readme-activity-graph)
-
+<div align=center>
+*
+</div>
