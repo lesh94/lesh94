@@ -37,9 +37,10 @@ experimenting, and creating. Thank you for visiting.
 <div align=center >
   <h3>* Stacks *</h3>
 </div>
-
+<br>
 <div align=center >
 <img width="606" height="252" alt="Frame 1430105660" src="https://github.com/user-attachments/assets/08136452-c4d1-4477-864b-bbaa1b770b85" />
+<br>
 <br>
 <br>
 
@@ -48,10 +49,10 @@ experimenting, and creating. Thank you for visiting.
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </div>
-
+<br>
 <div align=center>
-  <h3>* Profile / Top Langs *</h3>
-  
+  <h3>* Profile / Top Langs *</h3><br>
+
 <img width="223" height="139" alt="Frame 1430105663" src="https://github.com/user-attachments/assets/c1d92c6a-79f1-4ab0-bfa6-4c0c695b9db2" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesh94&layout=compact&bg_color=151515)
 </div>
 <br>
@@ -59,13 +60,14 @@ experimenting, and creating. Thank you for visiting.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 </div>
 <div align=center>  
-<h3>* Stats *</h3>
+<h3>* Stats *</h3><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesh94&show_icons=true&theme=dark)
 </div>
 
 <div align=center>  
-<h3>* Activity Graph *</h3>
+<h3>* Activity Graph *</h3><br>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesh94&theme=react-dark)](https://github.com/lesh94/github-readme-activity-graph)
 </div>
