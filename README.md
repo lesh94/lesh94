@@ -76,6 +76,8 @@ experimenting, and creating. Thank you for visiting.
 <br>
 </div>
 <div align=center>
-<img width="525" height="59" alt="thank you" src="https://github.com/user-attachments/assets/668b2293-bc9c-4615-98e4-6d1d5af9786b" />
+
+![thank_ you_img](https://github.com/user-attachments/assets/3d3378f6-758a-4449-a9e5-48aa128ffd38)
 </div>
-<br>
+
+
