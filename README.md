@@ -78,3 +78,4 @@ experimenting, and creating. Thank you for visiting.
 <div align=center>
 <img width="525" height="59" alt="thank you" src="https://github.com/user-attachments/assets/668b2293-bc9c-4615-98e4-6d1d5af9786b" />
 </div>
+<br>
